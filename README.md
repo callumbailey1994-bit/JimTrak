@@ -1,4 +1,4 @@
-# JimTrak
+# DeckBuilt
 
-Project workspace for JimTrak.
+Personal training programme + logging app.
 

@@ -1,0 +1,6432 @@
+{
+  "version": 1,
+  "name": "Callum's Training Programme",
+  "source": {
+    "kind": "excel",
+    "workbook": "workoutplan.xlsx",
+    "sheet": "Plan",
+    "generatedAt": "2026-02-21T19:58:40.515Z"
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 150,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 6,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 20,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 102.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 155,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 82.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 6,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 20,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 1,
+                "sets": 5,
+                "load": 1,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 105,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 62.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 160,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 85,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 105,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 7,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 22,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 16.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 107.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 62.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 165,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 87.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 105,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 7,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 30,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 22,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 52.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 1,
+                "sets": 5,
+                "load": 1,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 65,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 170,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 40,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 125,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 25,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 90,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 9,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 24,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 17,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 112.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 65,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 175,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 40,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 125,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 25,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 92.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 9,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 24,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 55,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 1,
+                "sets": 5,
+                "load": 1,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 115,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 67.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 180,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 45,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 125,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 30,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 15,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 95,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 115,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 9,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 26,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 17.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 117.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 67.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 185,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 110,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 45,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 125,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 30,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 15,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 97.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 115,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 9,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 35,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 26,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 8,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 6,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 1,
+                "sets": 5,
+                "load": 1,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 70,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 34,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 190,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 35,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 20,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 100,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 40,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 28,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 12,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 7,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 18,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "days": [
+        {
+          "day": "Mon",
+          "exercises": [
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Primary",
+              "exercise": "Bench Press",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 122.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Close Grip Incline Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 70,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "DB Shoulder Press",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 4,
+                "load": 34,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Dips",
+              "goal": "Support",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Mon",
+              "restrictions": null,
+              "definition": "Push Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tue",
+          "exercises": [
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Primary",
+              "exercise": "Hack Squat",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 195,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Hip Thrusts",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Split Squat",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 50,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Calf Raises",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Optional",
+              "exercise": "Leg Extensions",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 2,
+                "load": 130,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 35,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Tue",
+              "restrictions": "Definitely In the Office",
+              "definition": "Lower Strength",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 24,
+                "sets": 3,
+                "load": 20,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wed",
+          "exercises": [
+            {
+              "day": "Wed",
+              "restrictions": "Usually in the Office",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Recovery",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 9,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thu",
+          "exercises": [
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Primary",
+              "exercise": "Barbell Row",
+              "goal": "Progression",
+              "plan": {
+                "reps": 5,
+                "sets": 5,
+                "load": 102.5,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Shrugs",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 4,
+                "load": 120,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Chin ups",
+              "goal": "Support",
+              "plan": {
+                "reps": 10,
+                "sets": 4,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Ancillary",
+              "exercise": "Rear Delt Flys",
+              "goal": "Support",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 80,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Optional",
+              "exercise": "EZ Preacher Curls",
+              "goal": "Support",
+              "plan": {
+                "reps": 8,
+                "sets": 3,
+                "load": 40,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Decline Sit-ups",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 15,
+                "sets": 3,
+                "load": 10,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Thu",
+              "restrictions": "Definitely In the Office",
+              "definition": "Pull Strength",
+              "exerciseType": "Core",
+              "exercise": "Ab Roll out",
+              "goal": "Engagement",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Fri",
+          "exercises": [
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (500s)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": 500,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Kettlebell swings",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 15,
+                "sets": 5,
+                "load": 28,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Power Cleans",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 10,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Front Squats",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 12,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "EMOM",
+              "exercise": "Thrusters",
+              "goal": "High Resistance Fitness",
+              "plan": {
+                "reps": 7,
+                "sets": 5,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Sit ups",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "ab Wheel Rollouts",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 10,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Russian Twists",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 20,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Fri",
+              "restrictions": null,
+              "definition": "Conditioning",
+              "exerciseType": "Core",
+              "exercise": "Reverse Crunches",
+              "goal": "Core Endurance",
+              "plan": {
+                "reps": 12,
+                "sets": 3,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sat",
+          "exercises": [
+            {
+              "day": "Sat",
+              "restrictions": "Having other weekend plans",
+              "definition": "Easy Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Easy Volume",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 14,
+                "loadText": null
+              }
+            }
+          ]
+        },
+        {
+          "day": "Sun",
+          "exercises": [
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Long Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Aerobic Base",
+              "plan": {
+                "reps": 0,
+                "sets": 0,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Warm Up",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Anaerobic",
+              "plan": {
+                "reps": 1,
+                "sets": 5,
+                "load": 1,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Speed Run",
+              "exerciseType": "Cardio",
+              "exercise": "Run",
+              "goal": "Cool Down",
+              "plan": {
+                "reps": 1,
+                "sets": 1,
+                "load": 2,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "Cardio",
+              "exercise": "Rowing",
+              "goal": "Best Average (30s on / 30s off)",
+              "plan": {
+                "reps": 1,
+                "sets": 10,
+                "load": null,
+                "loadText": "160+"
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Swings",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 32,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Push Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Lunge Jump",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Floow Wiper",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 60,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "KB Clean & Press",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 50,
+                "sets": 1,
+                "load": 16,
+                "loadText": null
+              }
+            },
+            {
+              "day": "Sun",
+              "restrictions": "Having other weekend plans",
+              "definition": "Conditioning",
+              "exerciseType": "300",
+              "exercise": "Pull Ups",
+              "goal": "Reduce Time",
+              "plan": {
+                "reps": 25,
+                "sets": 1,
+                "load": 0,
+                "loadText": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
