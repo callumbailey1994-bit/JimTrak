@@ -1,0 +1,9 @@
+# OS / tooling noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Secrets
+.env
+.env.*
+
