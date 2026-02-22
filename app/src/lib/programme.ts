@@ -67,7 +67,8 @@ export function detectKind(ex: PlannedExercise): "strength" | "run" | "row500" |
 }
 
 export async function loadProgramme(): Promise<Programme> {
-  const res = await fetch("/programme.json", { cache: "no-cache" });
+  const url = `${import.meta.env.BASE_URL}programme.json`;
+  const res = await fetch(url, { cache: "no-cache" });
   if (!res.ok) throw new Error(`Failed to load programme (${res.status})`);
   return (await res.json()) as Programme;
 }
