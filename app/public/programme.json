@@ -5,7 +5,7 @@
     "kind": "excel",
     "workbook": "workoutplan.xlsx",
     "sheet": "Plan",
-    "generatedAt": "2026-02-21T19:58:40.515Z"
+    "generatedAt": "2026-02-23T10:41:56.065Z"
   },
   "weeks": [
     {
@@ -15,6 +15,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -29,6 +30,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -43,6 +45,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -57,6 +60,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -71,6 +75,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -85,6 +90,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -104,6 +110,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -118,6 +125,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -132,6 +140,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -146,6 +155,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -160,6 +170,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -174,6 +185,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -188,6 +200,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -207,6 +220,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -226,6 +240,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -240,6 +255,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -254,6 +270,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -268,6 +285,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -282,6 +300,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -296,6 +315,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -310,6 +330,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -329,6 +350,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -343,6 +365,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -357,6 +380,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -371,6 +395,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -385,6 +410,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -399,6 +425,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -413,6 +440,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -427,6 +455,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -441,6 +470,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -460,6 +490,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -479,6 +510,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -493,6 +525,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -507,6 +540,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -521,6 +555,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -535,6 +570,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -549,6 +585,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -563,6 +600,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -577,6 +615,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -591,6 +630,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -605,6 +645,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -619,6 +660,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -633,6 +675,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -657,6 +700,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -671,6 +715,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -685,6 +730,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -699,6 +745,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -713,6 +760,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -727,6 +775,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -746,6 +795,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -760,6 +810,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -774,6 +825,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -788,6 +840,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -802,6 +855,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -816,6 +870,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -830,6 +885,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -849,6 +905,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -868,6 +925,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -882,6 +940,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -896,6 +955,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -910,6 +970,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -924,6 +985,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -938,6 +1000,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -952,6 +1015,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -971,6 +1035,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -985,6 +1050,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -999,6 +1065,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1013,6 +1080,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1027,6 +1095,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1041,6 +1110,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1055,6 +1125,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1069,6 +1140,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1083,6 +1155,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1102,6 +1175,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -1121,6 +1195,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -1135,6 +1210,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1149,6 +1225,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1163,6 +1240,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1177,6 +1255,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1191,6 +1270,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1205,6 +1285,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1219,6 +1300,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1233,6 +1315,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1247,6 +1330,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1261,6 +1345,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1275,6 +1360,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1299,6 +1385,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1313,6 +1400,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1327,6 +1415,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1341,6 +1430,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1355,6 +1445,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1369,6 +1460,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1388,6 +1480,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1402,6 +1495,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1416,6 +1510,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1430,6 +1525,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1444,6 +1540,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1458,6 +1555,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1472,6 +1570,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -1491,6 +1590,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -1510,6 +1610,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1524,6 +1625,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1538,6 +1640,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1552,6 +1655,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1566,6 +1670,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1580,6 +1685,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1594,6 +1700,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -1613,6 +1720,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1627,6 +1735,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1641,6 +1750,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1655,6 +1765,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1669,6 +1780,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1683,6 +1795,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1697,6 +1810,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1711,6 +1825,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1725,6 +1840,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -1744,6 +1860,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -1763,6 +1880,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -1777,6 +1895,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1791,6 +1910,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1805,6 +1925,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -1819,6 +1940,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1833,6 +1955,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1847,6 +1970,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1861,6 +1985,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1875,6 +2000,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1889,6 +2015,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1903,6 +2030,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1917,6 +2045,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -1941,6 +2070,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1955,6 +2085,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1969,6 +2100,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1983,6 +2115,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -1997,6 +2130,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2011,6 +2145,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2030,6 +2165,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2044,6 +2180,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2058,6 +2195,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2072,6 +2210,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2086,6 +2225,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2100,6 +2240,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2114,6 +2255,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2133,6 +2275,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -2152,6 +2295,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2166,6 +2310,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2180,6 +2325,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2194,6 +2340,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2208,6 +2355,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2222,6 +2370,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2236,6 +2385,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2255,6 +2405,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2269,6 +2420,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2283,6 +2435,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2297,6 +2450,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2311,6 +2465,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2325,6 +2480,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2339,6 +2495,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2353,6 +2510,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2367,6 +2525,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2386,6 +2545,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -2405,6 +2565,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -2419,6 +2580,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -2433,6 +2595,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -2447,6 +2610,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -2461,6 +2625,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2475,6 +2640,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2489,6 +2655,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2503,6 +2670,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2517,6 +2685,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2531,6 +2700,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2545,6 +2715,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2559,6 +2730,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -2583,6 +2755,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2597,6 +2770,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2611,6 +2785,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2625,6 +2800,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2639,6 +2815,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2653,6 +2830,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -2672,6 +2850,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2686,6 +2865,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2700,6 +2880,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2714,6 +2895,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2728,6 +2910,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2742,6 +2925,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2756,6 +2940,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -2775,6 +2960,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -2794,6 +2980,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2808,6 +2995,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2822,6 +3010,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2836,6 +3025,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2850,6 +3040,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2864,6 +3055,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2878,6 +3070,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -2897,6 +3090,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2911,6 +3105,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2925,6 +3120,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2939,6 +3135,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2953,6 +3150,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2967,6 +3165,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2981,6 +3180,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -2995,6 +3195,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3009,6 +3210,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3028,6 +3230,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -3047,6 +3250,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -3061,6 +3265,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3075,6 +3280,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3089,6 +3295,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3103,6 +3310,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3117,6 +3325,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3131,6 +3340,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3145,6 +3355,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3159,6 +3370,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3173,6 +3385,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3187,6 +3400,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3201,6 +3415,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3225,6 +3440,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3239,6 +3455,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3253,6 +3470,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3267,6 +3485,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3281,6 +3500,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3295,6 +3515,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3314,6 +3535,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3328,6 +3550,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3342,6 +3565,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3356,6 +3580,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3370,6 +3595,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3384,6 +3610,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3398,6 +3625,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3417,6 +3645,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -3436,6 +3665,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3450,6 +3680,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3464,6 +3695,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3478,6 +3710,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3492,6 +3725,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3506,6 +3740,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3520,6 +3755,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -3539,6 +3775,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3553,6 +3790,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3567,6 +3805,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3581,6 +3820,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3595,6 +3835,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3609,6 +3850,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3623,6 +3865,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3637,6 +3880,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3651,6 +3895,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -3670,6 +3915,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -3689,6 +3935,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -3703,6 +3950,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3717,6 +3965,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3731,6 +3980,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -3745,6 +3995,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3759,6 +4010,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3773,6 +4025,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3787,6 +4040,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3801,6 +4055,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3815,6 +4070,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3829,6 +4085,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3843,6 +4100,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -3867,6 +4125,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3881,6 +4140,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3895,6 +4155,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3909,6 +4170,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3923,6 +4185,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3937,6 +4200,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -3956,6 +4220,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3970,6 +4235,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3984,6 +4250,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -3998,6 +4265,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4012,6 +4280,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4026,6 +4295,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4040,6 +4310,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4059,6 +4330,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -4078,6 +4350,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4092,6 +4365,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4106,6 +4380,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4120,6 +4395,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4134,6 +4410,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4148,6 +4425,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4162,6 +4440,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4181,6 +4460,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4195,6 +4475,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4209,6 +4490,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4223,6 +4505,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4237,6 +4520,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4251,6 +4535,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4265,6 +4550,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4279,6 +4565,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4293,6 +4580,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4312,6 +4600,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -4331,6 +4620,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -4345,6 +4635,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -4359,6 +4650,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -4373,6 +4665,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -4387,6 +4680,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4401,6 +4695,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4415,6 +4710,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4429,6 +4725,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4443,6 +4740,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4457,6 +4755,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4471,6 +4770,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4485,6 +4785,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -4509,6 +4810,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4523,6 +4825,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4537,6 +4840,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4551,6 +4855,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4565,6 +4870,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4579,6 +4885,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -4598,6 +4905,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4612,6 +4920,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4626,6 +4935,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4640,6 +4950,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4654,6 +4965,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4668,6 +4980,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4682,6 +4995,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -4701,6 +5015,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -4720,6 +5035,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4734,6 +5050,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4748,6 +5065,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4762,6 +5080,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4776,6 +5095,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4790,6 +5110,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4804,6 +5125,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -4823,6 +5145,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4837,6 +5160,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4851,6 +5175,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4865,6 +5190,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4879,6 +5205,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4893,6 +5220,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4907,6 +5235,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4921,6 +5250,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4935,6 +5265,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -4954,6 +5285,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -4973,6 +5305,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -4987,6 +5320,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5001,6 +5335,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5015,6 +5350,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5029,6 +5365,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5043,6 +5380,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5057,6 +5395,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5071,6 +5410,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5085,6 +5425,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5099,6 +5440,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5113,6 +5455,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5127,6 +5470,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5151,6 +5495,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5165,6 +5510,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5179,6 +5525,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5193,6 +5540,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5207,6 +5555,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5221,6 +5570,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5240,6 +5590,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5254,6 +5605,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5268,6 +5620,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5282,6 +5635,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5296,6 +5650,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5310,6 +5665,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5324,6 +5680,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5343,6 +5700,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -5362,6 +5720,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5376,6 +5735,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5390,6 +5750,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5404,6 +5765,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5418,6 +5780,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5432,6 +5795,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5446,6 +5810,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -5465,6 +5830,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5479,6 +5845,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5493,6 +5860,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5507,6 +5875,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5521,6 +5890,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5535,6 +5905,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5549,6 +5920,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5563,6 +5935,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5577,6 +5950,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -5596,6 +5970,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -5615,6 +5990,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -5629,6 +6005,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5643,6 +6020,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5657,6 +6035,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -5671,6 +6050,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5685,6 +6065,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5699,6 +6080,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5713,6 +6095,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5727,6 +6110,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5741,6 +6125,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5755,6 +6140,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5769,6 +6155,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -5793,6 +6180,7 @@
           "day": "Mon",
           "exercises": [
             {
+              "id": "mon-push-strength-primary-bench-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5807,6 +6195,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-close-grip-incline-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5821,6 +6210,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-db-shoulder-press",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5835,6 +6225,7 @@
               }
             },
             {
+              "id": "mon-push-strength-ancillary-dips",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5849,6 +6240,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-decline-sit-ups",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5863,6 +6255,7 @@
               }
             },
             {
+              "id": "mon-push-strength-core-ab-roll-out",
               "day": "Mon",
               "restrictions": null,
               "definition": "Push Strength",
@@ -5882,6 +6275,7 @@
           "day": "Tue",
           "exercises": [
             {
+              "id": "tue-lower-strength-primary-hack-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5896,6 +6290,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-hip-thrusts",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5910,6 +6305,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-split-squat",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5924,6 +6320,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-ancillary-calf-raises",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5938,6 +6335,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-optional-leg-extensions",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5952,6 +6350,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-reverse-crunches",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5966,6 +6365,7 @@
               }
             },
             {
+              "id": "tue-lower-strength-core-russian-twists",
               "day": "Tue",
               "restrictions": "Definitely In the Office",
               "definition": "Lower Strength",
@@ -5985,6 +6385,7 @@
           "day": "Wed",
           "exercises": [
             {
+              "id": "wed-easy-run-cardio-run",
               "day": "Wed",
               "restrictions": "Usually in the Office",
               "definition": "Easy Run",
@@ -6004,6 +6405,7 @@
           "day": "Thu",
           "exercises": [
             {
+              "id": "thu-pull-strength-primary-barbell-row",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6018,6 +6420,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-shrugs",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6032,6 +6435,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-chin-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6046,6 +6450,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-ancillary-rear-delt-flys",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6060,6 +6465,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-optional-ez-preacher-curls",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6074,6 +6480,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-decline-sit-ups",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6088,6 +6495,7 @@
               }
             },
             {
+              "id": "thu-pull-strength-core-ab-roll-out",
               "day": "Thu",
               "restrictions": "Definitely In the Office",
               "definition": "Pull Strength",
@@ -6107,6 +6515,7 @@
           "day": "Fri",
           "exercises": [
             {
+              "id": "fri-conditioning-cardio-rowing",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6121,6 +6530,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-kettlebell-swings",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6135,6 +6545,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-power-cleans",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6149,6 +6560,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-front-squats",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6163,6 +6575,7 @@
               }
             },
             {
+              "id": "fri-conditioning-emom-thrusters",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6177,6 +6590,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-sit-ups",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6191,6 +6605,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-ab-wheel-rollouts",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6205,6 +6620,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-russian-twists",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6219,6 +6635,7 @@
               }
             },
             {
+              "id": "fri-conditioning-core-reverse-crunches",
               "day": "Fri",
               "restrictions": null,
               "definition": "Conditioning",
@@ -6238,6 +6655,7 @@
           "day": "Sat",
           "exercises": [
             {
+              "id": "sat-easy-run-cardio-run",
               "day": "Sat",
               "restrictions": "Having other weekend plans",
               "definition": "Easy Run",
@@ -6257,6 +6675,7 @@
           "day": "Sun",
           "exercises": [
             {
+              "id": "sun-long-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Long Run",
@@ -6271,6 +6690,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -6285,6 +6705,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -6299,6 +6720,7 @@
               }
             },
             {
+              "id": "sun-speed-run-cardio-run--3",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Speed Run",
@@ -6313,6 +6735,7 @@
               }
             },
             {
+              "id": "sun-conditioning-cardio-rowing",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6327,6 +6750,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6341,6 +6765,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-swings",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6355,6 +6780,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-push-ups",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6369,6 +6795,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-lunge-jump",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6383,6 +6810,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-floow-wiper",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6397,6 +6825,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-kb-clean-press",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",
@@ -6411,6 +6840,7 @@
               }
             },
             {
+              "id": "sun-conditioning-300-pull-ups--2",
               "day": "Sun",
               "restrictions": "Having other weekend plans",
               "definition": "Conditioning",

@@ -1,10 +1,10 @@
 import type { Route } from "../lib/hashRoute";
-import { loadLogs } from "../lib/storage";
+import { loadLogsV2 } from "../lib/storage";
 import type { Programme } from "../types";
 import { Button, Card, Section, cx } from "../ui/ui";
 
 function weekProgress(week: number): { logged: number; totalDaysLogged: number } {
-  const logs = loadLogs();
+  const logs = loadLogsV2();
   const wk = logs.byWeek[String(week)] ?? {};
   const days = Object.keys(wk);
   const totalDaysLogged = days.length;

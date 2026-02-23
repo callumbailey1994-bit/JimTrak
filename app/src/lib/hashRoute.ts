@@ -6,9 +6,10 @@ export type Route =
   | { name: "programme" }
   | { name: "programmeWeek"; week: number }
   | { name: "session"; week: number; day: DayCode }
-  | { name: "exercise"; week: number; day: DayCode; ex: number }
+  | { name: "exercise"; week: number; day: DayCode; ex: string }
   | { name: "block"; week: number; day: DayCode; blockId: "emom" | "cond_core" | "w300" }
   | { name: "weight" }
+  | { name: "kcal" }
   | { name: "pills" }
   | { name: "analytics" }
   | { name: "builder" };
@@ -44,8 +45,8 @@ export function parseHash(hash: string): Route {
           return { name: "block", week: w, day, blockId: parts[6] };
         }
         if (parts[5] === "ex") {
-          const ex = toInt(parts[6]);
-          if (ex != null) return { name: "exercise", week: w, day, ex };
+          const ex = parts[6];
+          if (ex) return { name: "exercise", week: w, day, ex };
         }
         return { name: "session", week: w, day };
       }
@@ -57,6 +58,7 @@ export function parseHash(hash: string): Route {
   }
 
   if (parts[0] === "weight") return { name: "weight" };
+  if (parts[0] === "kcal") return { name: "kcal" };
   if (parts[0] === "pills") return { name: "pills" };
   if (parts[0] === "analytics") return { name: "analytics" };
   if (parts[0] === "builder") return { name: "builder" };
@@ -73,8 +75,8 @@ export function parseHash(hash: string): Route {
         return { name: "block", week: w, day, blockId: parts[5] };
       }
       if (parts[4] === "ex") {
-        const ex = toInt(parts[5]);
-        if (ex != null) return { name: "exercise", week: w, day, ex };
+        const ex = parts[5];
+        if (ex) return { name: "exercise", week: w, day, ex };
       }
       return { name: "session", week: w, day };
     }
@@ -100,6 +102,8 @@ export function toHash(route: Route): string {
       return `#/programme/week/${route.week}/day/${route.day}/block/${route.blockId}`;
     case "weight":
       return "#/weight";
+    case "kcal":
+      return "#/kcal";
     case "pills":
       return "#/pills";
     case "analytics":

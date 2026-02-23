@@ -31,12 +31,16 @@ export function ExerciseScreen(props: {
   programme: Programme;
   week: number;
   day: DayCode;
-  exIndex: number;
+  exRef: string;
   nav: (r: Route) => void;
 }) {
   const wk = props.programme.weeks.find((w) => w.week === props.week);
   const day = wk?.days.find((d) => d.day === props.day);
-  const planned = day?.exercises[props.exIndex];
+  const idx = Number(props.exRef);
+  const planned =
+    Number.isFinite(idx) && String(idx) === props.exRef
+      ? day?.exercises[idx]
+      : day?.exercises.find((e) => e.id === props.exRef);
   if (!planned) {
     return (
       <Card>
@@ -51,7 +55,7 @@ export function ExerciseScreen(props: {
   }
 
   const kind = detectKind(planned);
-  const existing = getExerciseLog(props.week, props.day, props.exIndex);
+  const existing = getExerciseLog(props.week, props.day, planned.id);
 
   const [notes, setNotes] = useState(existing?.notes ?? "");
   const [score, setScore] = useState(existing?.score?.toString() ?? "");
@@ -95,7 +99,7 @@ export function ExerciseScreen(props: {
           score={score}
           setScore={setScore}
           onSave={(log) => {
-            upsertExerciseLog(props.week, props.day, props.exIndex, log);
+            upsertExerciseLog(props.week, props.day, planned.id, log);
             props.nav({ name: "session", week: props.week, day: props.day });
           }}
           makeBase={saveBase}
@@ -109,7 +113,7 @@ export function ExerciseScreen(props: {
           score={score}
           setScore={setScore}
           onSave={(log) => {
-            upsertExerciseLog(props.week, props.day, props.exIndex, log);
+            upsertExerciseLog(props.week, props.day, planned.id, log);
             props.nav({ name: "session", week: props.week, day: props.day });
           }}
           makeBase={saveBase}
@@ -123,7 +127,7 @@ export function ExerciseScreen(props: {
           score={score}
           setScore={setScore}
           onSave={(log) => {
-            upsertExerciseLog(props.week, props.day, props.exIndex, log);
+            upsertExerciseLog(props.week, props.day, planned.id, log);
             props.nav({ name: "session", week: props.week, day: props.day });
           }}
           makeBase={saveBase}
@@ -137,7 +141,7 @@ export function ExerciseScreen(props: {
           score={score}
           setScore={setScore}
           onSave={(log) => {
-            upsertExerciseLog(props.week, props.day, props.exIndex, log);
+            upsertExerciseLog(props.week, props.day, planned.id, log);
             props.nav({ name: "session", week: props.week, day: props.day });
           }}
           makeBase={saveBase}
@@ -151,7 +155,7 @@ export function ExerciseScreen(props: {
           score={score}
           setScore={setScore}
           onSave={(log) => {
-            upsertExerciseLog(props.week, props.day, props.exIndex, log);
+            upsertExerciseLog(props.week, props.day, planned.id, log);
             props.nav({ name: "session", week: props.week, day: props.day });
           }}
           makeBase={saveBase}

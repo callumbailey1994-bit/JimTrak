@@ -1,3 +1,4 @@
+import { useState } from "react";
 import type { DayCode, Programme } from "../types";
 import type { Route } from "../lib/hashRoute";
 import { planSummary } from "../lib/programme";
@@ -16,6 +17,7 @@ export function SessionScreen(props: { programme: Programme; week: number; day: 
   const wk = props.programme.weeks.find((w) => w.week === props.week);
   const day = wk?.days.find((d) => d.day === props.day);
   const exercises = day?.exercises ?? [];
+  const [stretchingDone, setStretchingDoneState] = useState<boolean>(() => !!getDayMeta(props.week, props.day).stretchingDone);
 
   const grouped = new Map<string, Array<{ ex: (typeof exercises)[number]; idx: number }>>();
   exercises.forEach((ex, idx) => {
@@ -77,13 +79,13 @@ export function SessionScreen(props: { programme: Programme; week: number; day: 
             {/* Individual exercises (skip those included in circuit blocks) */}
             {items.map(({ ex, idx }) => {
               if (blockedIndexToBlock.has(idx)) return null;
-              const logged = !!getExerciseLog(props.week, props.day, idx);
+              const logged = !!getExerciseLog(props.week, props.day, ex.id);
               const right = logged ? <span className="badge badge--good">Logged</span> : <span className="badge">Plan</span>;
               return (
                 <button
-                  key={idx}
+                  key={ex.id}
                   className={cx("exCard", logged && "exCard--done")}
-                  onClick={() => props.nav({ name: "exercise", week: props.week, day: props.day, ex: idx })}
+                  onClick={() => props.nav({ name: "exercise", week: props.week, day: props.day, ex: ex.id })}
                 >
                   <div className="exCard__main">
                     <div className="exCard__title">
@@ -92,7 +94,6 @@ export function SessionScreen(props: { programme: Programme; week: number; day: 
                     </div>
                     <div className="exCard__meta">
                       <span className="mono">{planSummary(ex)}</span>
-                      {ex.goal ? <span className="muted">· {ex.goal}</span> : null}
                       {ex.restrictions ? <span className="muted">· {ex.restrictions}</span> : null}
                     </div>
                   </div>
@@ -104,23 +105,19 @@ export function SessionScreen(props: { programme: Programme; week: number; day: 
       ))}
 
       <Section title="Stretching" right="Daily">
-        {(() => {
-          const meta = getDayMeta(props.week, props.day);
-          const done = !!meta.stretchingDone;
-          return (
-            <div className="row" style={{ alignItems: "center" }}>
-              <button
-                className={cx("btn", done && "btn--primary")}
-                onClick={() => setStretchingDone(props.week, props.day, !done)}
-              >
-                {done ? "Stretching done" : "Mark stretching done"}
-              </button>
-              <div className="muted">
-                Keep it simple: log whether you stretched after the session.
-              </div>
-            </div>
-          );
-        })()}
+        <div className="row" style={{ alignItems: "center" }}>
+          <button
+            className={cx("btn", stretchingDone && "btn--primary")}
+            onClick={() => {
+              const next = !stretchingDone;
+              setStretchingDoneState(next);
+              setStretchingDone(props.week, props.day, next);
+            }}
+          >
+            {stretchingDone ? "Stretching done" : "Mark stretching done"}
+          </button>
+          <div className="muted">Keep it simple: log whether you stretched after the session.</div>
+        </div>
       </Section>
     </Card>
   );

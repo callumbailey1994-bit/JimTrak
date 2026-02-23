@@ -1,5 +1,5 @@
 import type { DayCode, Programme } from "../types";
-import { loadLogs } from "./storage";
+import { loadLogsV2 } from "./storage";
 import { getConditioningBlocks } from "./conditioningBlocks";
 import { getBlockLog } from "./blockLogs";
 
@@ -10,7 +10,7 @@ export function computeDayCompletion(programme: Programme, week: number, day: Da
 
   if (!total) return { logged: 0, total: 0, pct: 0 };
 
-  const logs = loadLogs();
+  const logs = loadLogsV2();
   const dayLogs = logs.byWeek[String(week)]?.[day] ?? {};
 
   const blocks = getConditioningBlocks(exercises);
@@ -24,7 +24,7 @@ export function computeDayCompletion(programme: Programme, week: number, day: Da
 
   for (let i = 0; i < exercises.length; i++) {
     if (blocked.has(i)) continue;
-    if (dayLogs[String(i)]) logged += 1;
+    if (dayLogs[exercises[i].id]) logged += 1;
   }
 
   const pct = total ? Math.round((logged / total) * 100) : 0;

@@ -35,6 +35,15 @@ function asNumOrNull(v) {
   return Number.isFinite(n) ? n : null;
 }
 
+function slugify(s) {
+  return String(s ?? "")
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .replace(/-+/g, "-");
+}
+
 function main() {
   const inArg = process.argv[2] || "../data/workoutplan.xlsx";
   const outArg = process.argv[3] || "./public/programme.json";
@@ -73,6 +82,7 @@ function main() {
   }
 
   // Data starts at row index 3 (0-based) based on the workbook preview (two header rows + labels row)
+  const idCounts = new Map();
   for (let r = 3; r <= ref.e.r; r++) {
     const day = normDay(get(r, 0));
     const restrictions = norm(get(r, 1));
@@ -83,6 +93,12 @@ function main() {
 
     if (!day || !exercise) continue;
     if (!programme.weeks[0].days[day]) continue;
+
+    const baseKey = [day, definition, exerciseType, exercise].map((x) => norm(x)).join("|");
+    const baseId = slugify(baseKey);
+    const n = (idCounts.get(baseId) ?? 0) + 1;
+    idCounts.set(baseId, n);
+    const exerciseId = n === 1 ? baseId : `${baseId}--${n}`;
 
     for (let w = 1; w <= 10; w++) {
       const base = 6 + (w - 1) * 3;
@@ -96,6 +112,7 @@ function main() {
       if (reps === null && sets === null && load === null && !loadText) continue;
 
       programme.weeks[w - 1].days[day].exercises.push({
+        id: exerciseId,
         day,
         restrictions: restrictions || null,
         definition: definition || null,

@@ -8,11 +8,13 @@ import { HomeScreen } from "./screens/Home";
 import { ProgrammeWeeksScreen } from "./screens/ProgrammeWeeks";
 import { WeekDaysScreen } from "./screens/WeekDays";
 import { WeightScreen } from "./screens/Weight";
+import { KcalScreen } from "./screens/Kcal";
 import { PlaceholderScreen } from "./screens/Placeholder";
 import { PillsScreen } from "./screens/Pills";
 import { AnalyticsScreen } from "./screens/Analytics";
 import { BlockScreen } from "./screens/Block";
 import { APP_NAME } from "./config";
+import { migrateLogsV1ToV2, needsMigrationFromV1 } from "./lib/storage";
 
 export default function App() {
   const { route, nav } = useRoute();
@@ -24,6 +26,14 @@ export default function App() {
     loadProgramme()
       .then((p) => {
         if (!mounted) return;
+        if (needsMigrationFromV1()) {
+          migrateLogsV1ToV2((week, day, index) => {
+            const wk = p.weeks.find((w) => w.week === week);
+            const d = wk?.days.find((x) => x.day === day);
+            const ex = d?.exercises?.[index];
+            return ex?.id ?? null;
+          });
+        }
         setProgramme(p);
         setError(null);
       })
@@ -101,11 +111,13 @@ export default function App() {
         ) : route.name === "session" ? (
           <SessionScreen programme={programme} week={route.week} day={route.day} nav={nav} />
         ) : route.name === "exercise" ? (
-          <ExerciseScreen programme={programme} week={route.week} day={route.day} exIndex={route.ex} nav={nav} />
+          <ExerciseScreen programme={programme} week={route.week} day={route.day} exRef={route.ex} nav={nav} />
         ) : route.name === "block" ? (
           <BlockScreen programme={programme} week={route.week} day={route.day} blockId={route.blockId} nav={nav} />
         ) : route.name === "weight" ? (
           <WeightScreen nav={nav} />
+        ) : route.name === "kcal" ? (
+          <KcalScreen nav={nav} />
         ) : route.name === "pills" ? (
           <PillsScreen nav={nav} />
         ) : route.name === "analytics" ? (

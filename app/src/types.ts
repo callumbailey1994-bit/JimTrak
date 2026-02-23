@@ -14,6 +14,7 @@ export type Programme = {
 };
 
 export type PlannedExercise = {
+  id: string;
   day: DayCode;
   restrictions: string | null;
   definition: string | null;

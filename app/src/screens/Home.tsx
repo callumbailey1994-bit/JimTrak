@@ -43,6 +43,7 @@ export function HomeScreen(props: { programme: Programme; nav: (r: Route) => voi
           />
           <Tile title="Current programme" subtitle={props.programme.name} onClick={() => props.nav({ name: "programme" })} />
           <Tile title="Weight" subtitle="Log + trend" onClick={() => props.nav({ name: "weight" })} />
+          <Tile title="Calories" subtitle="Daily kcal" onClick={() => props.nav({ name: "kcal" })} />
           <Tile title="Pills" subtitle="Daily check-in" onClick={() => props.nav({ name: "pills" })} />
           <Tile title="Analytics" subtitle="Coming soon" onClick={() => props.nav({ name: "analytics" })} />
           <Tile title="Build a programme" subtitle="Coming soon" onClick={() => props.nav({ name: "builder" })} />
